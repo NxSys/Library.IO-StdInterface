@@ -1,0 +1,21 @@
+* text=auto !eol
+/DecoratingTrait.php -text
+/DirectoryIterator.php -text
+/FilesystemIterator.php -text
+/GlobIterator.php -text
+/ICompleteStreamWrapper.php -text
+/IDirectoryIterator.php -text
+/IException.php -text
+/IFilesystemIterator.php -text
+/IGlobIterator.php -text
+/IRecursiveDirectoryIterator.php -text
+/ISplFileInfo.php -text
+/ISplFileObject.php -text
+/ISplTempFileObject.php -text
+/IStdException.php -text
+/IhasTraitDecorating.php -text
+/RecursiveDirectoryIterator.php -text
+/SplFileInfo.php -text
+/SplFileObject.php -text
+/SplTempFileObject.php -text
+/composer.json -text
